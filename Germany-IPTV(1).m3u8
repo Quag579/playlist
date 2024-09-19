@@ -1,253 +1,519 @@
 #EXTM3U
-#EXTINF:0 tvg-country="DE" tvg-logo="https://4.bp.blogspot.com/-BAcecuCPkK4/VGjDw1zsTdI/AAAAAAAACeE/eSgTcT9nY7Y/s1600/123tv.jpg" group-title="Undefined",1-2-3 TV
-http://123tv.cdn.ses-ps.com/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24444-2.png" group-title="Undefined",1-2-3 TV (480p)
-http://123tv-mx1.flex-cdn.net/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Allg%C3%A4u_TV_Logo_%282021%29.svg/512px-Allg%C3%A4u_TV_Logo_%282021%29.svg.png" group-title="Undefined",Allgäu TV
-https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/3JriZGR.png" group-title="Undefined",Altenburg TV (1080p)
-https://58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/hvGJ2oa.png" group-title="Undefined",Anixe + (360p)
-https://ma.anixa.tv/clips/stream/anixesd/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/DLVjeno.png" group-title="Undefined",Aristo TV (360p)
-https://ma.anixa.tv/clips/stream/aristo/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/27AKMUL.png" group-title="Undefined",Augsburg TV
-https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Austria : Dorf TV HD,dorf tv
-https://stream.openplayout.org/hls/dorf_high/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://pbs.twimg.com/profile_images/706774153001639938/VCkr2ys5_400x400.jpg" group-title="Undefined",BLK TV
-http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://pbs.twimg.com/profile_images/706774153001639938/VCkr2ys5_400x400.jpg" group-title="Undefined",BLK TV
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/D5wePo5.jpg" group-title="Undefined",BLK TV Hohenmölsen (1080p)
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8?ref=medienportal-sachsen-&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/D5wePo5.jpg" group-title="Undefined",BLK TV Hohenmцlsen
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8?&ref=medienportal-sachsen-&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Baden TV
-http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="http://www.iptvdigital.com/images/canal_live/22_canal_live_28_canal_live_baden_tv.png" group-title="Undefined",Baden TV
-https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Baden TV
-http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/0OoMMbd.png" group-title="Undefined",Bibel TV (720p)
-https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/yIqOcP5.png" group-title="Music",Bibel TV Musik (720p)
-https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Chemnitz Fernsehen
-https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/5bHrYoD.png" group-title="Business",Der Aktionär TV (720p)
-https://live2.telvi.de/hls/aktionaertv.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/MGKbHPT.png" group-title="Music",Deutsches Musik Fernsehen (1080p) [Not 24/7]
-https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Dresden Fernsehen
-https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.ibb.co/ccNRGVj/download-10.png" group-title="Religious",EchtJetzt TV (720p)
-https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL;AM;BG;DK;FI;FR;GE;DE;GR;HU;IT;NO;PT;RS;ES;SE;CH;TR;UA" tvg-logo="https://i.imgur.com/m7IC01U.png" group-title="Sport",Extreme Sports
-https://edge02.odtv.az/o4/extremesport/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/19iKLvf.png" group-title="Undefined",Filstalwelle (1080p)
-https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/1uoP10V.png" group-title="Undefined",Finest TV (288p) [Not 24/7]
-https://media.finest.tv/hls/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png" group-title="Undefined",Franken Fernsehen Nьrnberg
-https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/4kljoX2.jpg" group-title="Music",Good-Sound (720p)
-http://148.251.76.72:8081/goodsound/goodsound.sdp/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",HSE24
-https://hse24.akamaized.net/hls/live/2006663/hse24/master_1080p25.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/oMIygVf.png" group-title="Undefined",Handystar (404p)
-https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AT;DE" tvg-logo="" group-title="Undefined",K-TV
-https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/dJocxUQ.png" group-title="Undefined",Kanal Avrupa (1080p)
-https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/CVJWiM0.png" group-title="Undefined",KaufBei TV (576p)
-https://api.alpaca.t62a.com/hls/9103/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/io7cJ1Z.png" group-title="Undefined",KulturMD (1080p)
-https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:kulturmd_high/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/io7cJ1Z.png" group-title="Undefined",KulturMD (1080p)
-http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/io7cJ1Z.png" group-title="Undefined",KulturMD Magdeburg
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=661069&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24496-1.png" group-title="Undefined",L-TV
-https://live2.telvi.de/hls/l-tv_s1.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/4kYF4bK.png" group-title="Undefined",Lausitzwelle (1080p)
-https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Leipzig Fernsehen
-https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/qskVMhF.png" group-title="Undefined",Light Channel
-http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/SEeqryT.png" group-title="Undefined",MDF.1 (1080p)
-http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://medienportal-sachsen-anhalt.de/uploads/hg/mdf1.png" group-title="Undefined",MDF.1 (1080p)
-https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:mdf1_high/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://medienportal-sachsen-anhalt.de/uploads/hg/mdf1.png" group-title="Undefined",MDF.1 Magdeburg
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:mdf1_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=458536&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/SqG9fbV.png" group-title="Undefined",MeieTV (720p)
-https://stream.meietv.de/live/meietv.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/hRNUo9n.png" group-title="Sport",More Than Sports TV (1080p)
-https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/bUcXxDh.png" group-title="Undefined",Muxx.tv (1080p)
-https://h056.video-stream-hosting.de/easycast9-live/_definst_/mp4:livestream99/playlist.m3u8?ref=&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NRWISION (1080p)
-https://fms.nrwision.de/live/livestreamHD.stream_source/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrwision.png" group-title="Undefined",NRWision
-https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/RkF2Kmx.png" group-title="Undefined",NRWision
-https://fms.nrwision.de/live/livestreamHD.stream_360p/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/RkF2Kmx.png" group-title="Undefined",NRWision
-https://fms.nrwision.de/live/livestreamHD.stream_1080p/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/RkF2Kmx.png" group-title="Undefined",NRWision (1080p)
-https://fms.nrwision.de/live/livestreamHD.stream_1080p/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Noa 4 Hamburg
-https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="http://s3.vefire.ru/l/en/NOA4.gif" group-title="Undefined",Noa 4 Norderstedt
-https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/BmJaDT3.jpg" group-title="Sport",OF-TV Offenbach (720p)
-https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:streamschedule/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://www.ok-dessau.de/fileadmin/layout/logo_okdessau.jpg" group-title="Undefined",OK Dessau
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-dessau_high/playlist.m3u8?&ref=www.ok-dessau.de&seid=408238&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okdessau.png" group-title="Undefined",OK Dessau (1080p) [Not 24/7]
-https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-dessau_high/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okdessau.png" group-title="Undefined",OK Dessau (1080p) [Not 24/7]
-http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/NPbfgQC.png" group-title="Undefined",OK Flensburg (576p)
-https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/A8rLufC.png" group-title="Undefined",OK Kiel
-https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okmagdeburg.png" group-title="Undefined",OK Magdeburg (1080p)
-http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okmagdeburg.png" group-title="Undefined",OK Magdeburg (1080p)
-https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-magdeburg_high/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okmerseburg.png" group-title="Undefined",OK Merseburg-Querfurt (1080p) [Not 24/7]
-http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okmerseburg.png" group-title="Undefined",OK Merseburg-Querfurt (1080p) [Not 24/7]
-https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-merseburg_high/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://ok-salzwedel.de/wp-content/themes/oksaw/images/logo-home.png" group-title="Undefined",OK Salzwedel
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-salzwedel_high/playlist.m3u8?&ref=ok-salzwedel.de&seid=783487&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oksalzwedel.png" group-title="Undefined",OK Salzwedel (1080p) [Not 24/7]
-https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-salzwedel_high/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oksalzwedel.png" group-title="Undefined",OK Salzwedel (1080p) [Not 24/7]
-http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okstendal.png" group-title="Undefined",OK Stendal (1080p)
-http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-stendal_high/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okstendal.png" group-title="Undefined",OK Stendal (1080p)
-http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/A7WA7dC.png" group-title="Undefined",Oberlausitz TV (1080p)
-https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Oberpfalz TV
-https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/punktum.png" group-title="Undefined",PUNKTum (1080p)
-https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:punktum_high/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://www.punktum-fernsehen.de/share/android-icon-192x192.png" group-title="Undefined",PUNKTum Fernsehen (1080p)
-https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:punktum_high/playlist.m3u?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/zZOk3nh.png" group-title="Undefined",ProSieben (576p)
-http://85.187.13.40:18000/ProSieben?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",PunktUM (1080p)
-http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://www.punktum-fernsehen.de/share/android-icon-192x192.png" group-title="Undefined",PunktUm Hettstedt
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:punktum_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=824679&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ran1.png" group-title="Undefined",RAN1 (1080p)
-https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ran1_high/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="http://www.rbwonline.de/img/ban1.png" group-title="Undefined",RBW (1080p)
-https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:rbw_high/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="http://www.rbwonline.de/img/ban1.png" group-title="Undefined",RBW (1080p)
-http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="http://www.rbwonline.de/img/ban1.png" group-title="Undefined",RBW Bitterfeld-Wolfen
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=237997&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfh.png" group-title="Undefined",RFH (1080p)
-https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:RFH_high/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/e/ea/RFH-Logo.svg/200px-RFH-Logo.svg.png" group-title="Undefined",RFH Harz
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:RFH_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=528347&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/e/ea/RFH-Logo.svg/200px-RFH-Logo.svg.png" group-title="Undefined",RFH Harz (1080p)
-https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:RFH_high/playlist.m3u8?ref=medienportal-sachsen-anhalt.de&seid=528347&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RFH TV (1080p)
-http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfo.png" group-title="Undefined",RFO Rosenheim
-https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/YkB39hx.png" group-title="Undefined",RNF
-http://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/YkB39hx.png" group-title="Undefined",RNF
-https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/v1PIbB2.png" group-title="News",RT DE (1080p) [Not 24/7]
-https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/u8OhwI1.png" group-title="Music",Radio 21 TV (720p)
-https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Ran 1 (1080p)
-http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://www.rennsteig.tv/wp-content/uploads/rennsteig-tv-claim-300.png" group-title="Undefined",Rennsteig TV (720p)
-http://wowza.telvi.de/rennsteigtv/stream_720p/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/G7W4K3K.png" group-title="Undefined",Rheinmain TV
-https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/Nvw7SaN.png" group-title="Undefined",Saarland 1,Saarland Fernsehen 1
-http://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/Nvw7SaN.png" group-title="Undefined",Saarland Fernsehen 1
-https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/Z4ujzB5.png" group-title="Undefined",Sachsen Eins (1080p)
-http://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/2EXNdd8.png" group-title="Undefined",Sachsen Eins (1080p)
-https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/9l6ePYk.png" group-title="Undefined",Sachsen Fernsehen Vogtland
-http://vogtland.iptv-playoutcenter.de/vogtland/vogtlandfernsehen.stream_1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/s6LluNe.png" group-title="Undefined",Sachsen Fernsehen Vogtland
-https://vogtland.iptv-playoutcenter.de/vogtland/vogtlandfernsehen.stream_1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/GhKjHMG.png" group-title="Undefined",Salve TV (720p)
-https://58de7a369a9c4.streamlock.net/salvetv/ngrp:stream_720p_web/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/3TgBg9v.jpg" group-title="Undefined",Seenluft24 (1080p)
-https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref=&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/piwT1HQ.jpg" group-title="Undefined",Sonnenklar.TV
-http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/1hNgHbB.png" group-title="Religious",Sophia TV (720p)
-https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/T2JPCq2.png" group-title="Undefined",Sophia TV Español (720p)
-https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/xCiU1TB.png" group-title="Undefined",Studio 47 (576p)
-https://h057.video-stream-hosting.de/studio47-live/_definst_/mp4:livestream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/2Wh8OS5.png" group-title="Undefined",Sylt1 (404p)
-https://5f7f7503aa549.streamlock.net/Sylt1_Channel_1_PGM/sylt1_high/Playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",TV Allgäu  rtm
-rtmp://tvallgaeu.iptv-playoutcenter.de/tvallgaeu/tvallgaeu.stream?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tv.berlin_2009.svg/512px-Tv.berlin_2009.svg.png" group-title="Undefined",TV Berlin
-https://live2.telvi.de/hls/tvberlin.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-ingolstadt-de.png" group-title="Undefined",TV Ingolstadt (1080p)
-https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmittelrhein.png" group-title="Undefined",TV Mittelrhein (720p)
-https://live2.telvi.de/hls/tvm_hd720.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",TV Würzburg
-https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/wamEY0w.png" group-title="Undefined",TV2 Fyn
-https://cdnapisec.kaltura.com/p/1966291/sp/196629100/playManifest/entryId/0_vsfrv0zm/format/applehttp/protocol/https/uiConfId/30288171/a.m3u8?referrer=aHR0cHM6Ly93d3cudHYyZnluLmRr&playSessionId=d59870a6-313c-ead3-3510-cb5123b228f1&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL;AM;BG;DK;FI;GE;DE;GR;HU;IT;SK;CH" tvg-logo="https://i.imgur.com/rPAbMSu.png" group-title="General;ITALY",TV5Monde Europe (1080p) [Geo-blocked]
-https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",TVA
-https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",TVO
-https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tidetv.png" group-title="Undefined",Tide TV (1080p) [Not 24/7]
-https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/dziFtVB.png" group-title="Music",Volksmusik TV (1080p)
-https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/MAofvWW.png" group-title="Undefined",Welt der Wunder TV (576p)
-https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/Yo1GMku.png" group-title="Undefined",ems TV Lingen (720p)
-https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/1V3UXVb.jpg" group-title="Education",iSTUFF (720p) [Not 24/7]
-https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",münchen.tv
-https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/NHvYg7e.png" group-title="Undefined",oeins Oldenburg
-https://www.oeins.de/live/studio.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rheinmaintv.png" group-title="Undefined",rheinmaintv
-https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8?=&ref=www.rheinmaintv.de&seid=598541&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rheinmaintv.png" group-title="Undefined",rheinmaintv (720p) [Not 24/7]
-https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/playlist.m3u8?=&ref=www.rheinmaintv.de&seid=598541&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/YBkBDSz.png" group-title="Undefined",rheinmaintv (720p) [Not 24/7]
-https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/G7W4K3K.png" group-title="Undefined",rheinmaintv (720p) [Not 24/7]
-https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/G0cImlU.png" group-title="Undefined",teltOwkanal (1080p)
-https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL;AM;BG;DK;FI;FR;GE;DE;GR;HU;IT;NO;PT;RS;ES;SE;CH;TR;UA" tvg-logo="https://i.imgur.com/pUcV46F.png" group-title="Undefined;FRANCE;ITALY;SPAIN",НТВ Мир
-http://stream02.vnet.am/HTB/mono.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL;AM;BG;DK;FI;FR;GE;DE;GR;HU;IT;NO;PT;RS;ES;SE;CH;TR;UA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" group-title="General;FRANCE;ITALY;SPAIN",РТР Планета Евро
-https://player.smotrim.ru/iframe/stream/live_id/4941?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="TV DEN HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/tvden.png" group-title="TR YEREL KANALLAR",TV DEN HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/441
+#EXTINF:-1 tvg-id="" tvg-name="TV EM HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/tvem.png" group-title="TR YEREL KANALLAR",TV EM HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/442
+#EXTINF:-1 tvg-id="" tvg-name="TV1 KAYSERI HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/tv1.png" group-title="TR YEREL KANALLAR",TV1 KAYSERI HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/443
+#EXTINF:-1 tvg-id="" tvg-name="TV 4 HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/Tvv4.png" group-title="TR YEREL KANALLAR",TV 4 HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/444
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 24 HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/kanal24.png" group-title="TR YEREL KANALLAR",KANAL 24 HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/445
+#EXTINF:-1 tvg-id="" tvg-name="TV 41 HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/tv41.png" group-title="TR YEREL KANALLAR",TV 41 HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/446
+#EXTINF:-1 tvg-id="" tvg-name="HABER 61 TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/haber61.png" group-title="TR YEREL KANALLAR",HABER 61 TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/447
+#EXTINF:-1 tvg-id="" tvg-name="AL ZAHRA TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/alzahratv.png" group-title="TR YEREL KANALLAR",AL ZAHRA TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/448
+#EXTINF:-1 tvg-id="" tvg-name="ALANYA POSTA TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/alanyapostatv.png" group-title="TR YEREL KANALLAR",ALANYA POSTA TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/449
+#EXTINF:-1 tvg-id="" tvg-name="ALTAS TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/altastv.png" group-title="TR YEREL KANALLAR",ALTAS TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/450
+#EXTINF:-1 tvg-id="" tvg-name="ARAS TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/arastv.png" group-title="TR YEREL KANALLAR",ARAS TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/451
+#EXTINF:-1 tvg-id="" tvg-name="AS TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/astv.png" group-title="TR YEREL KANALLAR",AS TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/452
+#EXTINF:-1 tvg-id="" tvg-name="ATV ALANYA HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/atvalanyatv.png" group-title="TR YEREL KANALLAR",ATV ALANYA HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/453
+#EXTINF:-1 tvg-id="" tvg-name="BERAT TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/berattv.png" group-title="TR YEREL KANALLAR",BERAT TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/454
+#EXTINF:-1 tvg-id="" tvg-name="CAN TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/cantv.png" group-title="TR YEREL KANALLAR",CAN TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/455
+#EXTINF:-1 tvg-id="" tvg-name="CAY TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/caytv.png" group-title="TR YEREL KANALLAR",CAY TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/456
+#EXTINF:-1 tvg-id="" tvg-name="CEKMEKOY WEB TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/cekmekoywebtv.png" group-title="TR YEREL KANALLAR",CEKMEKOY WEB TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/457
+#EXTINF:-1 tvg-id="" tvg-name="DHA HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/dhatv.png" group-title="TR YEREL KANALLAR",DHA HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/458
+#EXTINF:-1 tvg-id="" tvg-name="DRT DENIZLI TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/drttv.png" group-title="TR YEREL KANALLAR",DRT DENIZLI TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/459
+#EXTINF:-1 tvg-id="Tvem" tvg-name="EM TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/emtv.png" group-title="TR YEREL KANALLAR",EM TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/460
+#EXTINF:-1 tvg-id="" tvg-name="ERT SAH TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/ertsahtv.png" group-title="TR YEREL KANALLAR",ERT SAH TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/461
+#EXTINF:-1 tvg-id="" tvg-name="ERZURUM WEB TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/erzurumwebtv.png" group-title="TR YEREL KANALLAR",ERZURUM WEB TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/462
+#EXTINF:-1 tvg-id="" tvg-name="KUZEY KIBRIS TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/kuzeyk%C4%B1br%C4%B1stv.png" group-title="TR YEREL KANALLAR",KUZEY KIBRIS TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/463
+#EXTINF:-1 tvg-id="" tvg-name="LALEGUL TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/lalegultvhd.png" group-title="TR YEREL KANALLAR",LALEGUL TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/464
+#EXTINF:-1 tvg-id="" tvg-name="OGUN TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/oguntv.png" group-title="TR YEREL KANALLAR",OGUN TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/465
+#EXTINF:-1 tvg-id="" tvg-name="SARIYER TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/sar%C4%B1yertv.png" group-title="TR YEREL KANALLAR",SARIYER TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/466
+#EXTINF:-1 tvg-id="" tvg-name="SAT 7 PARS HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/sat7pars_1.png" group-title="TR YEREL KANALLAR",SAT 7 PARS HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/467
+#EXTINF:-1 tvg-id="" tvg-name="SEMERKANT TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/Semerkanddd.png" group-title="TR YEREL KANALLAR",SEMERKANT TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/468
+#EXTINF:-1 tvg-id="" tvg-name="SAT 7 TURK HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/sat7turkhd.png" group-title="TR YEREL KANALLAR",SAT 7 TURK HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/469
+#EXTINF:-1 tvg-id="" tvg-name="TATLISES TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/tatl%C4%B1sestv.png" group-title="TR YEREL KANALLAR",TATLISES TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/470
+#EXTINF:-1 tvg-id="" tvg-name="TURKMEN OWAZY HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/Turkmentv.png" group-title="TR YEREL KANALLAR",TURKMEN OWAZY HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/471
+#EXTINF:-1 tvg-id="" tvg-name="TURKMEN SPORT HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/turkmensport.png" group-title="TR YEREL KANALLAR",TURKMEN SPORT HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/472
+#EXTINF:-1 tvg-id="" tvg-name="TURKMENISTAN HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/Turkmentv.png" group-title="TR YEREL KANALLAR",TURKMENISTAN HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/473
+#EXTINF:-1 tvg-id="tvnet.tr" tvg-name="TVNET HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/tvnet1.png" group-title="TR YEREL KANALLAR",TVNET HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/474
+#EXTINF:-1 tvg-id="" tvg-name="AFRON TURK HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/Afron.png" group-title="TR YEREL KANALLAR",AFRON TURK HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/476
+#EXTINF:-1 tvg-id="" tvg-name="AGRO TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/agrotv.png" group-title="TR YEREL KANALLAR",AGRO TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/477
+#EXTINF:-1 tvg-id="akit.tr" tvg-name="AKIT TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/akittv.png" group-title="TR YEREL KANALLAR",AKIT TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/478
+#EXTINF:-1 tvg-id="" tvg-name="ALTIN ASIR TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/altinasirtv.png" group-title="TR YEREL KANALLAR",ALTIN ASIR TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/479
+#EXTINF:-1 tvg-id="" tvg-name="ALVIN CHANNEL HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/alvinchannel.png" group-title="TR YEREL KANALLAR",ALVIN CHANNEL HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/480
+#EXTINF:-1 tvg-id="" tvg-name="ANGARA TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/angaratv.png" group-title="TR YEREL KANALLAR",ANGARA TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/481
+#EXTINF:-1 tvg-id="" tvg-name="ARAS TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/arastv.png" group-title="TR YEREL KANALLAR",ARAS TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/482
+#EXTINF:-1 tvg-id="" tvg-name="ARB AZERBAYCAN HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/arbazerbeycantv.png" group-title="TR YEREL KANALLAR",ARB AZERBAYCAN HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/483
+#EXTINF:-1 tvg-id="" tvg-name="BURUKSEL TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/Burukselll.png" group-title="TR YEREL KANALLAR",BURUKSEL TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/484
+#EXTINF:-1 tvg-id="" tvg-name="CINE5 TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/cine5.png" group-title="TR YEREL KANALLAR",CINE5 TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/485
+#EXTINF:-1 tvg-id="" tvg-name="DENGE TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/dengetv.png" group-title="TR YEREL KANALLAR",DENGE TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/486
+#EXTINF:-1 tvg-id="" tvg-name="DIYANET TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/diyanettv.png" group-title="TR YEREL KANALLAR",DIYANET TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/487
+#EXTINF:-1 tvg-id="" tvg-name="DIYAR TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/diyartvhd.png" group-title="TR YEREL KANALLAR",DIYAR TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/488
+#EXTINF:-1 tvg-id="" tvg-name="DOST TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/dostvhd.png" group-title="TR YEREL KANALLAR",DOST TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/489
+#EXTINF:-1 tvg-id="" tvg-name="EDESSSA TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/edessatv.png" group-title="TR YEREL KANALLAR",EDESSSA TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/490
+#EXTINF:-1 tvg-id="" tvg-name="FASHION PARIS HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/fahsion.png" group-title="TR YEREL KANALLAR",FASHION PARIS HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/491
+#EXTINF:-1 tvg-id="" tvg-name="FLASH TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/flashtv.png" group-title="TR YEREL KANALLAR",FLASH TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/492
+#EXTINF:-1 tvg-id="" tvg-name="FORTUNA TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/fortunatv.png" group-title="TR YEREL KANALLAR",FORTUNA TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/493
+#EXTINF:-1 tvg-id="" tvg-name="GS TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/gstvhd.png" group-title="TR YEREL KANALLAR",GS TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/494
+#EXTINF:-1 tvg-id="" tvg-name="GURBET 24 TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/gurbet24.png" group-title="TR YEREL KANALLAR",GURBET 24 TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/495
+#EXTINF:-1 tvg-id="" tvg-name="GUNAYDIN TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/g%C3%BCnayd%C4%B1ntv.png" group-title="TR YEREL KANALLAR",GUNAYDIN TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/496
+#EXTINF:-1 tvg-id="" tvg-name="ISTANBUL TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/istanbultv.png" group-title="TR YEREL KANALLAR",ISTANBUL TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/497
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 23 HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/kanal23.png" group-title="TR YEREL KANALLAR",KANAL 23 HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/498
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 56 HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/kanal56.png" group-title="TR YEREL KANALLAR",KANAL 56 HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/499
+#EXTINF:-1 tvg-id="" tvg-name="KANAL ORDU HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/kanalrodu.png" group-title="TR YEREL KANALLAR",KANAL ORDU HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/500
+#EXTINF:-1 tvg-id="" tvg-name="KOROGLU TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/kkoroglutv.png" group-title="TR YEREL KANALLAR",KOROGLU TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/501
+#EXTINF:-1 tvg-id="" tvg-name="KRAL POP HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/kralpopradyo.png" group-title="TR YEREL KANALLAR",KRAL POP HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/502
+#EXTINF:-1 tvg-id="" tvg-name="KTK KAZAKISTAN HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/ktkkazakistantv.png" group-title="TR YEREL KANALLAR",KTK KAZAKISTAN HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/503
+#EXTINF:-1 tvg-id="" tvg-name="KUDUS HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/kudustvhd.png" group-title="TR YEREL KANALLAR",KUDUS HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/504
+#EXTINF:-1 tvg-id="" tvg-name="MARMARIS WEBTV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/marmaristv.png" group-title="TR YEREL KANALLAR",MARMARIS WEBTV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/505
+#EXTINF:-1 tvg-id="" tvg-name="MILYON TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/milyontv.png" group-title="TR YEREL KANALLAR",MILYON TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/506
+#EXTINF:-1 tvg-id="" tvg-name="OBB TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/obbtv.png" group-title="TR YEREL KANALLAR",OBB TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/507
+#EXTINF:-1 tvg-id="" tvg-name="SINOP YILDIZ HD" tvg-logo="https://www.canlitv.gen.tr/img/kanallar/sinopyildiztv.png" group-title="TR YEREL KANALLAR",SINOP YILDIZ HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/511
+#EXTINF:-1 tvg-id="" tvg-name="SLOW KARADENIZ HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/slowkaradeniz.png" group-title="TR YEREL KANALLAR",SLOW KARADENIZ HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/512
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV TURKMENISTAN HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/Turkmentv.png" group-title="TR YEREL KANALLAR",SPORT TV TURKMENISTAN HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/513
+#EXTINF:-1 tvg-id="" tvg-name="TARIM TV HD HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/tar%C4%B1mtv.png" group-title="TR YEREL KANALLAR",TARIM TV HD HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/514
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBU TURK HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/tivibut%C3%BCrk.png" group-title="TR YEREL KANALLAR",TIVIBU TURK HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/515
+#EXTINF:-1 tvg-id="" tvg-name="TURHAL WEB TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/turhaltv.png" group-title="TR YEREL KANALLAR",TURHAL WEB TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/516
+#EXTINF:-1 tvg-id="" tvg-name="TURKMENISTAN HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/Turkmentv.png" group-title="TR YEREL KANALLAR",TURKMENISTAN HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/517
+#EXTINF:-1 tvg-id="" tvg-name="TV 48 HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/tv48.png" group-title="TR YEREL KANALLAR",TV 48 HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/519
+#EXTINF:-1 tvg-id="" tvg-name="USKUDAR UNIVERSITESI HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/uskudaruni.png" group-title="TR YEREL KANALLAR",USKUDAR UNIVERSITESI HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/520
+#EXTINF:-1 tvg-id="" tvg-name="VAN GOLU TV HD" tvg-logo="https://pbs.twimg.com/profile_images/1411967330461138949/cXLZIAOD_400x400.jpg" group-title="TR YEREL KANALLAR",VAN GOLU TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/521
+#EXTINF:-1 tvg-id="" tvg-name="VIYANA TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/viyanatv.png" group-title="TR YEREL KANALLAR",VIYANA TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/522
+#EXTINF:-1 tvg-id="" tvg-name="YANSIMA PREMIUM HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/yans%C4%B1matv.png" group-title="TR YEREL KANALLAR",YANSIMA PREMIUM HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/523
+#EXTINF:-1 tvg-id="" tvg-name="YANSIMA SINEMA HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/yans%C4%B1matv.png" group-title="TR YEREL KANALLAR",YANSIMA SINEMA HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/524
+#EXTINF:-1 tvg-id="" tvg-name="YASLIK TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/yaslyk.png" group-title="TR YEREL KANALLAR",YASLIK TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/525
+#EXTINF:-1 tvg-id="" tvg-name="YOL TV HD" tvg-logo="https://betulunevisleri.xyz/images/tryerel/yoltv.png" group-title="TR YEREL KANALLAR",YOL TV HD
+http://opsguek.fun:8080/cjZdJ5zj/AdefKkUS/526
+#EXTINF:-1 tvg-id="" tvg-name="Avanak Apdi (1978)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3ju1Oe7kThHQi7c7DW0SwKdY9B8.jpg" group-title="KEMAL SUNAL",Avanak Apdi (1978)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66578.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bekçiler Kralı (1979)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f5ON4Kt6g2JPoc33t9BlGQmJw6B.jpg" group-title="KEMAL SUNAL",Bekçiler Kralı (1979)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Canım Kardeşim (1973)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kMmjisiwAEnF4v8XIOoNHEE6SqQ.jpg" group-title="KEMAL SUNAL",Canım Kardeşim (1973)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Çarıklı Milyoner (1983)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fsxt2inqv3z0aTBKAMhVfptra0w.jpg" group-title="KEMAL SUNAL",Çarıklı Milyoner (1983)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Davacı (1986)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aYQ8iROTDsIMAYXubrjPgUZfLMT.jpg" group-title="KEMAL SUNAL",Davacı (1986)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Davaro (1981)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cokQm5fGn2iyVIJtsAdv3b984os.jpg" group-title="KEMAL SUNAL",Davaro (1981)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deli Deli Küpeli (1986)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2K0th3uOrbe4vWiT0z49uNaOKfs.jpg" group-title="KEMAL SUNAL",Deli Deli Küpeli (1986)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doktor Civanım (1983)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zQeaocfWyVGYHrTmvbJoWW68yNg.jpg" group-title="KEMAL SUNAL",Doktor Civanım (1983)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dokunmayın Şabanıma (1979)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qPrNDNpEinSjYgylk1Lk5HHPlMd.jpg" group-title="KEMAL SUNAL",Dokunmayın Şabanıma (1979)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="En Büyük Şaban (1983)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lWuG9STXfqoqVQTrjkkYNROhe8r.jpg" group-title="KEMAL SUNAL",En Büyük Şaban (1983)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Garip (1986)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/beRuuXKvZPXDQtV8GugVcHKQ2li.jpg" group-title="KEMAL SUNAL",Garip (1986)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gerzek Şaban (1980)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u5iLa0Yqh0ua4xR12wtoStENLYo.jpg" group-title="KEMAL SUNAL",Gerzek Şaban (1980)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gol Kralı (1980)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/geAyTDnniLcRPEr8jNSVdLK9grb.jpg" group-title="KEMAL SUNAL",Gol Kralı (1980)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gülen Adam (1990)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hk5gjW6yrnH4L0AcJfSWVisZV6Q.jpg" group-title="KEMAL SUNAL",Gülen Adam (1990)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gurbetçi Şaban (1985)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sunrV0T3pg5jfVOBVDeLCo3ZcQ8.jpg" group-title="KEMAL SUNAL",Gurbetçi Şaban (1985)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hababam Sınıfı (1975)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rpiU1Y0xNEsxM1bwqFEZZCOqR3J.jpg" group-title="KEMAL SUNAL",Hababam Sınıfı (1975)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hababam Sınıfı Dokuz Doğuruyor (1979)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/odAZRy6re7Sj97sqXrfe6e2Ay37.jpg" group-title="KEMAL SUNAL",Hababam Sınıfı Dokuz Doğuruyor (1979)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hababam Sınıfı Sınıfta Kaldı (1975)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gKXNkFVDWyOiZ4T4B8g4Ay88fIg.jpg" group-title="KEMAL SUNAL",Hababam Sınıfı Sınıfta Kaldı (1975)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hababam Sınıfı Tatilde (1977)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ypIX5bUR6iGjWMAmYm8IoQyRg95.jpg" group-title="KEMAL SUNAL",Hababam Sınıfı Tatilde (1977)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66597.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hababam Sınıfı Uyanıyor (1976)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6Yanz8IjDdGPn84j9k2g75lKYtC.jpg" group-title="KEMAL SUNAL",Hababam Sınıfı Uyanıyor (1976)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanzo (1975)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3r3lKxO16uCOktLRiEhLilOSVEW.jpg" group-title="KEMAL SUNAL",Hanzo (1975)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hasret (1974)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rdKC7FzFXq5spRD0JiIwWkvHXX0.jpg" group-title="KEMAL SUNAL",Hasret (1974)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="İbo ile Güllüşah (1977)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eLHX0gPPguakEQvRpjEXYd2B2ZH.jpg" group-title="KEMAL SUNAL",İbo ile Güllüşah (1977)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="İnatçı (1988)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/im2RSRpkAisKAPCmQfrmYlgkOGt.jpg" group-title="KEMAL SUNAL",İnatçı (1988)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="İnek Şaban (1979)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mTj5YwUMDA0hrGPdfSI1GTXlCjJ.jpg" group-title="KEMAL SUNAL",İnek Şaban (1979)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="İyi Aile Çocuğu (1978)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/td8P2cGQyGo3BoJu735mJUdK27N.jpg" group-title="KEMAL SUNAL",İyi Aile Çocuğu (1978)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Japon İşi (1987)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/72M3gjz4l7dyF5qehkLhp23jgKi.jpg" group-title="KEMAL SUNAL",Japon İşi (1987)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sahte Kabadayı (1976)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wXwshs84aQ2YKNEFDbXJ0f9K83x.jpg" group-title="KEMAL SUNAL",Sahte Kabadayı (1976)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kanlı Nigar (1981)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ek383GmCLK36mZ88hwO1rIcK6d3.jpg" group-title="KEMAL SUNAL",Kanlı Nigar (1981)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kapıcılar Kralı (1976)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cCv7LK3akjUlHSjfmYwfgRcxZ5w.jpg" group-title="KEMAL SUNAL",Kapıcılar Kralı (1976)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Katma Değer Şaban (1985)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6crkhzvpEZTcpMXMSwL6LjWj4TK.jpg" group-title="KEMAL SUNAL",Katma Değer Şaban (1985)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Keriz (1985)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6CX6Za52zETO0eQFYCb7uQLqoEI.jpg" group-title="KEMAL SUNAL",Keriz (1985)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kibar Feyzo (1978)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rxj2urB0xe4RuP0C4q1rVX1B8gl.jpg" group-title="KEMAL SUNAL",Kibar Feyzo (1978)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kılıbık (1983)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/72z18mtsO5KXg09bM4Fl0kkvJBI.jpg" group-title="KEMAL SUNAL",Kılıbık (1983)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Koltuk Belası (1990)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fR425RObdzPwgCqoztt0xtJfnDz.jpg" group-title="KEMAL SUNAL",Koltuk Belası (1990)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Korkusuz Korkak (1979)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tSop4XF6p36sUo90rjB4LuRtP4S.jpg" group-title="KEMAL SUNAL",Korkusuz Korkak (1979)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Köşeyi Dönen Adam (1978)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sFMJzGl6PGq7vag7ahFVwwEiKn1.jpg" group-title="KEMAL SUNAL",Köşeyi Dönen Adam (1978)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Köyden İndim Şehire (1974)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p6fiufgcfrCsHNlsrQMt0Ap1ZKt.jpg" group-title="KEMAL SUNAL",Köyden İndim Şehire (1974)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mavi Boncuk (1974)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nIamjnHUWfPYpA43YoPXKQC0I8l.jpg" group-title="KEMAL SUNAL",Mavi Boncuk (1974)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66617.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meraklı Köfteci (1976)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AlHoERoHtfbt9WkmRG8ZSISKoUq.jpg" group-title="KEMAL SUNAL",Meraklı Köfteci (1976)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Öğretmen Kemal (1981)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iZ6OTFDkrualNdEDRyqypbgqsxJ.jpg" group-title="KEMAL SUNAL",Öğretmen Kemal (1981)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66619.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oh Olsun (1973)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w5xhHAcUbpSYa72YN1vsL21p5JF.jpg" group-title="KEMAL SUNAL",Oh Olsun (1973)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66620.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ortadirek Şaban (1984)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tQPTmbz9QhXpXSmw7ur2PTWnFWQ.jpg" group-title="KEMAL SUNAL",Ortadirek Şaban (1984)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Polizei (1988)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aZGS2meY28LK28RT7f5SsSt4X9X.jpg" group-title="KEMAL SUNAL",Polizei (1988)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Postacı (1984)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6mVAW2rtH2Bu8CmE4sKQfvCVZ8j.jpg" group-title="KEMAL SUNAL",Postacı (1984)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Propaganda (1999)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pMe9wka3jO0nJ0pvOIOy0sNKNl.jpg" group-title="KEMAL SUNAL",Propaganda (1999)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Şaban Oğlu Şaban (1977)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iPYrBGUaNTsrMjxcPoNvo4quEeL.jpg" group-title="KEMAL SUNAL",Şaban Oğlu Şaban (1977)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Şaban Pabucu Yarım (1985)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dhgrGAEOfx4mDzFSPdEYWIn1fFu.jpg" group-title="KEMAL SUNAL",Şaban Pabucu Yarım (1985)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sakar Şakir (1977)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uonfsMHQPnirygqzS3LprpEvXMz.jpg" group-title="KEMAL SUNAL",Sakar Şakir (1977)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Salak Milyoner (1974)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oVoAGm7M5qypMTf90iB3kR153ag.jpg" group-title="KEMAL SUNAL",Salak Milyoner (1974)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Salako (1974)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/KySkA5sCUnXp49DRKNmY0ythZc.jpg" group-title="KEMAL SUNAL",Salako (1974)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Şark Bülbülü (1979)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/c2o9n0nNGN6qenKHz5SZOGkucbd.jpg" group-title="KEMAL SUNAL",Şark Bülbülü (1979)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Şaşkın Damat (1975)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6f0vEoj3mqLydYEVnHpVuS8AAYX.jpg" group-title="KEMAL SUNAL",Şaşkın Damat (1975)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Şendul Şaban (1985)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iWZ743e8uCkTMTFzZ736vNjfmsF.jpg" group-title="KEMAL SUNAL",Şendul Şaban (1985)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sevimli Hırsız (1989)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x2ij2i94WbADNavi7tbr5GbOCHU.jpg" group-title="KEMAL SUNAL",Sevimli Hırsız (1989)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/66633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aile Şerefi (1976)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ag9HHfUeWvbBq9NLgv10e3DZ7ZK.jpg" group-title="TR YESILCAM",Aile Şerefi (1976)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95450.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Akrep Yuvası (1977)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yzTRphc9UAIvmTXPvfTCOJEDFBy.jpg" group-title="TR YESILCAM",Akrep Yuvası (1977)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95451.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alev Alev (1984)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nEhshGAqFAbgSk7nvPgc4WiGdGH.jpg" group-title="TR YESILCAM",Alev Alev (1984)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95452.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aptal Kahraman (1983)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wL9dX738868drRRdMQ0O6XUYCtE.jpg" group-title="TR YESILCAM",Aptal Kahraman (1983)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95453.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aptal Şampiyon (1975)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mIpmtoPapd6XpCcB5e1p1HCCso3.jpg" group-title="TR YESILCAM",Aptal Şampiyon (1975)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95454.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Arabesk (1989)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4lrHbO9b7ikGmeFMbF3dfjY2Qxz.jpg" group-title="TR YESILCAM",Arabesk (1989)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95455.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aşık Oldum (1985)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ixki03uwg1V9ZUTouupVQMwXLsN.jpg" group-title="TR YESILCAM",Aşık Oldum (1985)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95456.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sen Aşıksın Arkadaş (1988)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3VXKjMDgnV9eyz6PRgJ9Gx7HfoZ.jpg" group-title="TR YESILCAM",Sen Aşıksın Arkadaş (1988)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95457.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aşk Filmlerinin Unutulmaz Yönetmeni (1990)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/o2ufnCTXQmV3ILyp1jbI7lhcbeQ.jpg" group-title="TR YESILCAM",Aşk Filmlerinin Unutulmaz Yönetmeni (1990)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95458.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Atla Gel Şaban (1984)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4aKakykUVDoHDhpYbeTaN3l0Hd7.jpg" group-title="TR YESILCAM",Atla Gel Şaban (1984)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95459.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Banker Bilo (1980)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/v0rnkXRmVW8eEWh1PfHnk4cAuPh.jpg" group-title="TR YESILCAM",Banker Bilo (1980)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95460.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Baş Belası (1982)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lZNU2Do7ktD3EUQR58buhAncw69.jpg" group-title="TR YESILCAM",Baş Belası (1982)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95461.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Battal Gazi Destanı (1971)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bIjBh43oMC00ePT3SCN02sfxIKE.jpg" group-title="TR YESILCAM",Battal Gazi Destanı (1971)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95462.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Battal Gazi'nin İntikamı (1973)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/73HLGr5zaL0K39JE0jZak2PBnXx.jpg" group-title="TR YESILCAM",Battal Gazi'nin İntikamı (1973)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95463.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Battal Gazi'nin Oğlu (1974)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9eWUocLjpKj73Bx0MRPGdLJRL2n.jpg" group-title="TR YESILCAM",Battal Gazi'nin Oğlu (1974)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95464.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bekçiler Kralı (1979)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f5ON4Kt6g2JPoc33t9BlGQmJw6B.jpg" group-title="TR YESILCAM",Bekçiler Kralı (1979)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95465.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Benim Gibi Sevenler (1978)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8rqSG7wf78U4niiAci0jw0QEpz4.jpg" group-title="TR YESILCAM",Benim Gibi Sevenler (1978)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95466.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beş Milyoncuk Borç Verir misin (1975)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xJmKAAvQOHZtGNgoAEU2c87MVLo.jpg" group-title="TR YESILCAM",Beş Milyoncuk Borç Verir misin (1975)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95467.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beyoğlu Güzeli (1972)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gq1fOgqrwyqddH5su2U3Vxrc4XZ.jpg" group-title="TR YESILCAM",Beyoğlu Güzeli (1972)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95468.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bıçkın (1988)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sho8Z6H4og6aeoFryLlKP3eYwwK.jpg" group-title="TR YESILCAM",Bıçkın (1988)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95469.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bir Dağ Masalı (1967)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/601UlRV2FEiGjMk7Pn0nuSEXBfr.jpg" group-title="TR YESILCAM",Bir Dağ Masalı (1967)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95470.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Birleşen Yollar (1970)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vEJG3Qx3fk99oosg5EI0fvrrKPT.jpg" group-title="TR YESILCAM",Birleşen Yollar (1970)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95471.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bizim Aile (1975)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ioNHNxZkNLmhOyvZ9xfkvB1141w.jpg" group-title="TR YESILCAM",Bizim Aile (1975)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95472.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boyacı (1966)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ychabkgWYovnRr5iFx3nIsoQtcy.jpg" group-title="TR YESILCAM",Boyacı (1966)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95473.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Büyük Yemin (1969)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6PC4wzDCQIkoO5HLSyEy84Kqlzj.jpg" group-title="TR YESILCAM",Büyük Yemin (1969)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95474.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Çam Sakızı (1974)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4N70rG8Ba4NW7712eybvD78MR1A.jpg" group-title="TR YESILCAM",Çam Sakızı (1974)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95475.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Canım Kardeşim (1973)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kMmjisiwAEnF4v8XIOoNHEE6SqQ.jpg" group-title="TR YESILCAM",Canım Kardeşim (1973)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95476.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Çile (1972)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xfJxEvPQctF7GMpn3mmKJCmlJTW.jpg" group-title="TR YESILCAM",Çile (1972)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95477.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Çıplak Vatandaş (1985)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7mYEv1BHssjFTgUDGv4nXxsDQUo.jpg" group-title="TR YESILCAM",Çıplak Vatandaş (1985)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95478.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Çöl Kartalı (1972)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qa5tSXkF1DFQ0NyjSru0ouNrsdT.jpg" group-title="TR YESILCAM",Çöl Kartalı (1972)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95479.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Çöpçüler Kralı (1977)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n4NaOyliycB7vHTvyLFUxhVbPa8.jpg" group-title="TR YESILCAM",Çöpçüler Kralı (1977)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95480.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Darıldınmı Cicim Bana (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h877LjHySsLXBy1vXfwoRxjIYDm.jpg" group-title="TR YESILCAM",Darıldınmı Cicim Bana (2004)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95481.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Davacı (1986)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aYQ8iROTDsIMAYXubrjPgUZfLMT.jpg" group-title="TR YESILCAM",Davacı (1986)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95482.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Davaro (1981)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cokQm5fGn2iyVIJtsAdv3b984os.jpg" group-title="TR YESILCAM",Davaro (1981)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95483.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Davetsiz Misafir (1983)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7w0aNVvDdJ0pXwIRekyvtBqissj.jpg" group-title="TR YESILCAM",Davetsiz Misafir (1983)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95484.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Değirmen (1986)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hVswnWtTg4IXMwXxCGZhIYlA4wM.jpg" group-title="TR YESILCAM",Değirmen (1986)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95485.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deli Deli Küpeli (1986)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2K0th3uOrbe4vWiT0z49uNaOKfs.jpg" group-title="TR YESILCAM",Deli Deli Küpeli (1986)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95486.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Devlerin Aşkı (1976)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bOI6fTzhoJT5w2sKP7TGnmImCLN.jpg" group-title="TR YESILCAM",Devlerin Aşkı (1976)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95487.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Doktor Civanım (1983)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zQeaocfWyVGYHrTmvbJoWW68yNg.jpg" group-title="TR YESILCAM",Doktor Civanım (1983)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95488.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dolap Beygiri (1982)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rb9BgabyphQxmavdPHlbS7MTusc.jpg" group-title="TR YESILCAM",Dolap Beygiri (1982)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95489.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Düttürü Dünya (1988)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/28tlDhBouISDy3xvF7F9nCjbRbw.jpg" group-title="TR YESILCAM",Düttürü Dünya (1988)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95490.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Duvar (1983)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qNyj3YCF8q4bteMaFHCF2lWTJVN.jpg" group-title="TR YESILCAM",Duvar (1983)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95491.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Emine (1971)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ng2KyN5Pw1MQwBEH6dtjmM72Id3.jpg" group-title="TR YESILCAM",Emine (1971)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95493.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En Büyük Şaban (1983)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lWuG9STXfqoqVQTrjkkYNROhe8r.jpg" group-title="TR YESILCAM",En Büyük Şaban (1983)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95494.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Erkek Güzeli Sefil Bilo (1979)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cFLkoR5bBZlz8wXHVoHZyYHzNIj.jpg" group-title="TR YESILCAM",Erkek Güzeli Sefil Bilo (1979)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95495.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Evlat (1972)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/us1M6UBJx76P5S3ZvYKGz77BqNg.jpg" group-title="TR YESILCAM",Evlat (1972)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95496.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Feride (1971)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fcLjimIUpKiMwYvOVyz87SB9W95.jpg" group-title="TR YESILCAM",Feride (1971)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95497.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Garip (1986)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/beRuuXKvZPXDQtV8GugVcHKQ2li.jpg" group-title="TR YESILCAM",Garip (1986)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95498.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gelincik (1978)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/CFinV0JcJv4FP1sUa1wOIVnyob.jpg" group-title="TR YESILCAM",Gelincik (1978)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95499.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gerzek Şaban (1980)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u5iLa0Yqh0ua4xR12wtoStENLYo.jpg" group-title="TR YESILCAM",Gerzek Şaban (1980)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95500.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gönül Hırsızı (1972)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8A8XMEbfgExJmBVSfGLAdyIN07l.jpg" group-title="TR YESILCAM",Gönül Hırsızı (1972)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95501.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gülen Adam (1990)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hk5gjW6yrnH4L0AcJfSWVisZV6Q.jpg" group-title="TR YESILCAM",Gülen Adam (1990)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95502.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Güler misin Ağlar mısın (1975)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/q4XlKlxnzIsKbZEKw2U37LsasUT.jpg" group-title="TR YESILCAM",Güler misin Ağlar mısın (1975)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95503.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gülizar (1972)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1tC0bFFWyBsm4I2Se1qYTyeAxRX.jpg" group-title="TR YESILCAM",Gülizar (1972)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95504.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Güllü Geliyor Güllü (1973)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mp7crtjsklI4dpusgtU3uQLbril.jpg" group-title="TR YESILCAM",Güllü Geliyor Güllü (1973)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95505.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Günah Bende mi? (1969)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qL6u9RLewauZWk21P5x0DqNdviM.jpg" group-title="TR YESILCAM",Günah Bende mi? (1969)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95506.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gün Ortasında Karanlık (1990)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jlbJ2ksCusVkucSqyaG3hSyH5br.jpg" group-title="TR YESILCAM",Gün Ortasında Karanlık (1990)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95507.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gurbetçi Şaban (1985)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sunrV0T3pg5jfVOBVDeLCo3ZcQ8.jpg" group-title="TR YESILCAM",Gurbetçi Şaban (1985)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95508.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hababam Sınıfı (1975)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rpiU1Y0xNEsxM1bwqFEZZCOqR3J.jpg" group-title="TR YESILCAM",Hababam Sınıfı (1975)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95509.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hababam Sınıfı Dokuz Doğuruyor (1979)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/odAZRy6re7Sj97sqXrfe6e2Ay37.jpg" group-title="TR YESILCAM",Hababam Sınıfı Dokuz Doğuruyor (1979)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95510.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hababam Sınıfı Güle Güle (1981)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/l4p185nAApEDZGHeqRXJON3HbEp.jpg" group-title="TR YESILCAM",Hababam Sınıfı Güle Güle (1981)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95511.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hababam Sınıfı Sınıfta Kaldı (1975)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gKXNkFVDWyOiZ4T4B8g4Ay88fIg.jpg" group-title="TR YESILCAM",Hababam Sınıfı Sınıfta Kaldı (1975)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95512.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hababam Sınıfı Uyanıyor (1976)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6Yanz8IjDdGPn84j9k2g75lKYtC.jpg" group-title="TR YESILCAM",Hababam Sınıfı Uyanıyor (1976)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95513.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hamsi Nuri (1971)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rUrsEGB2stydJ8jQaoXCen5qmrV.jpg" group-title="TR YESILCAM",Hamsi Nuri (1971)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95514.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hanzo (1975)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3r3lKxO16uCOktLRiEhLilOSVEW.jpg" group-title="TR YESILCAM",Hanzo (1975)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95515.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hasip ile Nasip (1976)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vr9tD4bbPxOpY2aXYAtPAjiG8zL.jpg" group-title="TR YESILCAM",Hasip ile Nasip (1976)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95516.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hasret (1974)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rdKC7FzFXq5spRD0JiIwWkvHXX0.jpg" group-title="TR YESILCAM",Hasret (1974)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95517.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Her Gönülde Bir Aslan Yatar (1976)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vmJ1T3I6kuRny136s3V6JDve70j.jpg" group-title="TR YESILCAM",Her Gönülde Bir Aslan Yatar (1976)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95518.mkv
+#EXTINF:-1 tvg-id="" tvg-name="İbo ile Güllüşah (1977)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eLHX0gPPguakEQvRpjEXYd2B2ZH.jpg" group-title="TR YESILCAM",İbo ile Güllüşah (1977)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95519.mkv
+#EXTINF:-1 tvg-id="" tvg-name="İnatçı (1988)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/im2RSRpkAisKAPCmQfrmYlgkOGt.jpg" group-title="TR YESILCAM",İnatçı (1988)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95520.mkv
+#EXTINF:-1 tvg-id="" tvg-name="İnek Şaban (1979)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mTj5YwUMDA0hrGPdfSI1GTXlCjJ.jpg" group-title="TR YESILCAM",İnek Şaban (1979)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95521.mkv
+#EXTINF:-1 tvg-id="" tvg-name="İstanbul 79 (1979)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oc699dBg1SN58ZqOSD3qDU3ltbz.jpg" group-title="TR YESILCAM",İstanbul 79 (1979)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95522.mkv
+#EXTINF:-1 tvg-id="" tvg-name="İyi Aile Çocuğu (1978)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/td8P2cGQyGo3BoJu735mJUdK27N.jpg" group-title="TR YESILCAM",İyi Aile Çocuğu (1978)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95523.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kalbimin Efendisi (1970)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/j4vjNqv7AWbm083tHEC7CeHk0Gy.jpg" group-title="TR YESILCAM",Kalbimin Efendisi (1970)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95524.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kara Murat: Fatih'ın Fedaisi (1972)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vATDDhYiDjYhbbctsFB0I3oFLDv.jpg" group-title="TR YESILCAM",Kara Murat: Fatih'ın Fedaisi (1972)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95525.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Karaoğlan Geliyor: Cengizhan'ın Hazineleri (1972)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ho0iT9Tcq1Q3ogP5clbhffWlP2t.jpg" group-title="TR YESILCAM",Karaoğlan Geliyor: Cengizhan'ın Hazineleri (1972)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95526.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Katma Değer Şaban (1985)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6crkhzvpEZTcpMXMSwL6LjWj4TK.jpg" group-title="TR YESILCAM",Katma Değer Şaban (1985)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95527.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nöri Kantar Ailesi (1975)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bOh1YTImVjIgz5692hxbOe68bo7.jpg" group-title="TR YESILCAM",Nöri Kantar Ailesi (1975)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95528.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Keriz (1985)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6CX6Za52zETO0eQFYCb7uQLqoEI.jpg" group-title="TR YESILCAM",Keriz (1985)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95529.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kılıbık (1983)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/72z18mtsO5KXg09bM4Fl0kkvJBI.jpg" group-title="TR YESILCAM",Kılıbık (1983)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95530.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kiracı (1987)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sQ2JqfrskCV5NJjgtZQsEq8Oadi.jpg" group-title="TR YESILCAM",Kiracı (1987)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95531.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kırık Plak (1959)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/s1Y4g3C6n5pBI9fIBZsPMRLmInk.jpg" group-title="TR YESILCAM",Kırık Plak (1959)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95532.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kızıl Vazo (1969)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oUuS6UtWyqpTbAE66Ib1crurlMz.jpg" group-title="TR YESILCAM",Kızıl Vazo (1969)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95533.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kızlar Sınıfı (1984)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/odpvh6rmU9vgfOdc5sCOwSXoW5G.jpg" group-title="TR YESILCAM",Kızlar Sınıfı (1984)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95534.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Koltuk Belası (1990)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fR425RObdzPwgCqoztt0xtJfnDz.jpg" group-title="TR YESILCAM",Koltuk Belası (1990)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95535.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Korkusuz Korkak (1979)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tSop4XF6p36sUo90rjB4LuRtP4S.jpg" group-title="TR YESILCAM",Korkusuz Korkak (1979)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95536.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Köşe Kapmaca (1979)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sEjAFazwC8B6Dle0Abpb6mLuNRN.jpg" group-title="TR YESILCAM",Köşe Kapmaca (1979)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95537.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Köyden İndim Şehire (1974)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p6fiufgcfrCsHNlsrQMt0Ap1ZKt.jpg" group-title="TR YESILCAM",Köyden İndim Şehire (1974)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95538.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leyla ile Mecnun (1972)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nGf8TB5V0ZUaZwutqsFQmJPTRRg.jpg" group-title="TR YESILCAM",Leyla ile Mecnun (1972)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95539.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Malkoçoğlu: Akıncılar Geliyor (1969)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bknx75oPNrYQzkdrXNBBtDD9TAZ.jpg" group-title="TR YESILCAM",Malkoçoğlu: Akıncılar Geliyor (1969)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95540.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Malkoçoğlu: Ölüm Fedaileri (1972)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uBly2cLy5z8Cbrd0a42CLskOluV.jpg" group-title="TR YESILCAM",Malkoçoğlu: Ölüm Fedaileri (1972)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95541.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mavi Boncuk (1974)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nIamjnHUWfPYpA43YoPXKQC0I8l.jpg" group-title="TR YESILCAM",Mavi Boncuk (1974)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95542.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Meçhul Kadın (1970)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6Br5HATYkduRWw0BPt2oAptlDV9.jpg" group-title="TR YESILCAM",Meçhul Kadın (1970)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95543.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Memleketim (1974)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9Rv9dlC61HQAXx7wYOdskO7CmnK.jpg" group-title="TR YESILCAM",Memleketim (1974)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95544.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mirasyediler (1974)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wW6asU8TjHqwboEgdx8ZzxjpYgS.jpg" group-title="TR YESILCAM",Mirasyediler (1974)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95545.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muhsin Bey (1987)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yzEou8fTrJ3w9mqebiUfHuXPpfN.jpg" group-title="TR YESILCAM",Muhsin Bey (1987)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95546.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Murat ile Nazlı (1972)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t1j4EkIkOrA4PLiuuukLMXZ2Uah.jpg" group-title="TR YESILCAM",Murat ile Nazlı (1972)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95547.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Namuslu (1984)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uz1aTvWD013BpGKwF50aOszsdHa.jpg" group-title="TR YESILCAM",Namuslu (1984)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95548.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nefret (1984)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gsd7KIhFwTTZpQClKH1DZ29YYb8.jpg" group-title="TR YESILCAM",Nefret (1984)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95549.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ne Olacak Şimdi (1979)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/s7C7WSrgYogFwwyjTWS169ysgQy.jpg" group-title="TR YESILCAM",Ne Olacak Şimdi (1979)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95550.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Neşeli Günler (1978)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jXljRPwYbl6AeMfZJEb1qiSdA1p.jpg" group-title="TR YESILCAM",Neşeli Günler (1978)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95551.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Öğretmen Zeynep (1989)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fsfUtD4W9XIuTuNXRoFY4FtLRF0.jpg" group-title="TR YESILCAM",Öğretmen Zeynep (1989)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95552.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oh Olsun (1973)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w5xhHAcUbpSYa72YN1vsL21p5JF.jpg" group-title="TR YESILCAM",Oh Olsun (1973)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95553.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ölmüş Bir Kadının Mektupları (1969)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gsAMMv5lZElhmkYDb2t2pZi3qfy.jpg" group-title="TR YESILCAM",Ölmüş Bir Kadının Mektupları (1969)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95554.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ortadirek Şaban (1984)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tQPTmbz9QhXpXSmw7ur2PTWnFWQ.jpg" group-title="TR YESILCAM",Ortadirek Şaban (1984)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95555.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Öyle Olsun (1976)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7i9wuR6Q8abyX7l1vd3WUHKNK7e.jpg" group-title="TR YESILCAM",Öyle Olsun (1976)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95556.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Patron Duymasın (1985)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kW5tZtwieJv8MSl93RzPY0d1toO.jpg" group-title="TR YESILCAM",Patron Duymasın (1985)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95557.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Petrol Kralları (1978)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/51VXzeU1kvW3qVtIOpUHTuKkl9v.jpg" group-title="TR YESILCAM",Petrol Kralları (1978)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95558.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Postacı (1984)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6mVAW2rtH2Bu8CmE4sKQfvCVZ8j.jpg" group-title="TR YESILCAM",Postacı (1984)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95559.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Şaka Yapma (1981)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wSFPjntI0qYfgR006zOeI4kJyhU.jpg" group-title="TR YESILCAM",Şaka Yapma (1981)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95560.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Şalvar Bank (1986)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zl56MaWkKg2EjZkXkCTmJkeiWwA.jpg" group-title="TR YESILCAM",Şalvar Bank (1986)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95561.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Savulun Battal Gazi Geliyor (1973)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zWD05lr5Q4IgYkY6kbdpFn7sk36.jpg" group-title="TR YESILCAM",Savulun Battal Gazi Geliyor (1973)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95562.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sen Türkülerini Söyle (1986)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/55xuw1W4Vyrie2mYKOI9j6PaXu7.jpg" group-title="TR YESILCAM",Sen Türkülerini Söyle (1986)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95563.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sev Kardeşim (1972)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pZu7m4c4IPFcQsUwYrMVhiTB32b.jpg" group-title="TR YESILCAM",Sev Kardeşim (1972)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95564.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Seyyit Han (1968)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qnxQh9E0SlkbLAs9Hony5eRpSiG.jpg" group-title="TR YESILCAM",Seyyit Han (1968)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95565.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Şoför Nebahat (1970)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AdgyqFLJBMMcCWYz6icASIr44Of.jpg" group-title="TR YESILCAM",Şoför Nebahat (1970)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95566.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Son Hıçkırık (1971)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vsgz3tiiqXWnnM6AXVnyLTvHx5w.jpg" group-title="TR YESILCAM",Son Hıçkırık (1971)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95567.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sürtük (1970)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b54tNyKjJP8AY7ehjGOKFvPCsiH.jpg" group-title="TR YESILCAM",Sürtük (1970)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95568.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tarkan: Güçlü Kahraman (1973)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yZ5Qi2TkpFzL7iH0I31Ol2ZI99n.jpg" group-title="TR YESILCAM",Tarkan: Güçlü Kahraman (1973)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95569.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tarzan Rıfkı (1986)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xxSVaHFxcVvgN1gjutwn107e1ZX.jpg" group-title="TR YESILCAM",Tarzan Rıfkı (1986)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95570.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Toto Kralı (1971)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bbyJq1JIoLSqp6OHhUrkWkYX5Cg.jpg" group-title="TR YESILCAM",Toto Kralı (1971)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95571.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Turist Ömer Yamyamlar Arasında (1970)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/w4aI2BTJNJ4FF8uq9cfjGXxW5FA.jpg" group-title="TR YESILCAM",Turist Ömer Yamyamlar Arasında (1970)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95572.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Üç Arkadaş (1971)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gqCE7QB4xhDeSjGvl3LOxROC6Jn.jpg" group-title="TR YESILCAM",Üç Arkadaş (1971)
+http://opsguek.fun:8080/movie/cjZdJ5zj/AdefKkUS/95573.mkv
